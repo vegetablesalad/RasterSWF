@@ -1,0 +1,7 @@
+Notes:
+Only MovieClips and Graphics supported.
+All Objects/Shapes must be converted to Symbols.
+
+./RasterSWF libraryToExport.swf destination
+
+
