@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+    <app package="com.profound.app" title="RasterSWF" file="RasterSWF" main="com.profound.app.RasterSWF" version="1.0.0" company="profound" />
+	<window width="400" height="400" fps="60" orientation="portrait" antialiasing="1"  resizable="false" />
+	<set name="BUILD_DIR" value="out" />
+	<classpath name="src" />
+	<haxelib name="nme" />
+	<haxelib name="swf" />
+	<haxelib name="format" />
+	<ndll name="std" />
+	<ndll name="nme" haxelib="nme" />
+</project>
